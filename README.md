@@ -1,5 +1,7 @@
-Hello my Friend 👋
+<h1 align="center">Hello my name is Carlos Henrique 👋
 
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  </h1>
 
 - 🔭 I’m don't working at the moment  <br>
 - 🌱 I’m currently learning technology Front-End  <br>
