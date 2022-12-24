@@ -4,6 +4,7 @@
 [![whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585988016020?text=Ol%C3%A1%2C+estava+dando+uma+olhada+no+seu+github+e+gostaria+de+conversar+com+voc%C3%AA%21)
   </h1>
   
+  <div align="center">
   
   ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,6 +15,10 @@
   ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
+  </div>
+  
+ <div align="center"> 
+ <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="500px" ></div>
   
 <p>Hello, my name is <strong>Carlos Henrique</strong> I'm 24 years old, I'm currently studying front-end technologies. I'm in college on the ADS course. Since I was a child I really liked computers and technologies and I always wanted to be a developer and now I'm have the chance to fulfill my dream</p>
   
