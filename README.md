@@ -15,12 +15,15 @@
   ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
   
-  
+<p>Hello, my name is <strong>Carlos Henrique</strong> I'm 24 years old, I'm currently studying front-end technologies. I'm in college on the ADS course. Since I was a child I really liked computers and technologies and I always wanted to be a developer and now I'm have the chance to fulfill my dream</p>
   
 
 - 🔭 I’m don't working at the moment  <br>
 - 🌱 I’m currently learning technology Front-End  <br>
 - 😄 Pronouns: Ele/ Dele
+
+
+
 
 <div align="center">
   <a href="https://github.com/carlloshen">
