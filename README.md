@@ -40,11 +40,6 @@
   ### ⚡ &nbsp;Database
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
-
-- 🔭 I’m not working at the moment  <br>
-- 🌱 I’m currently learning Front-End  technologies <br>
-- 😄 Pronouns: He / Him
-
 <div align="center">
   <a href="https://github.com/carlloshen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlloshen&theme=blue-green"/>
