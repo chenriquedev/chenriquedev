@@ -6,15 +6,18 @@
   
   
 
-  <p>Hello, my name is <strong>Carlos Henrique</strong> I'm 24 years old, I'm currently studying front-end technologies. I'm in college on the ADS course. Since I was a child I really liked computers and technologies and I always wanted to be a developer and now I'm have the chance to fulfill my dream</p>
+  ### Hello, my name is <strong>Carlos Henrique</strong> I'm 24 years old, I'm currently studying front-end technologies. 
+  ### I'm a ADS student. Since I was a child I really liked computers and technologies and I always wanted to be a developer and now I'm have the chance to fulfill my dream.
+  ### I started learning programing  in 2021, and since them I've been learn about many tecnologies and today my soft skills are front end technologies
+  ### I'm always in search of knowledge to improve my skills.
   
  
   
  <div align="center"> 
- <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="500px" >
+ <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="600px" >
   <h3 align="left">Connect with me:</h3>
     <p align="left">
-    <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" color="white"/></a>
+    <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="backgroundcolor: white"/></a>
     <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
     <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
     <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
