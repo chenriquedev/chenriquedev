@@ -1,8 +1,8 @@
-<h1 align="center">Hello my name is Carlos Henrique 👋</h1>
+# <p align="center">Hello my name is Carlos Henrique 👋</p>
   
   
 
-  ### Hello, my name is <strong>Carlos Henrique</strong> I'm 24 years old, I'm currently studying front-end technologies. 
+  ### Hello, my name is <strong>Carlos Henrique</strong> I'm 25 years old, I'm currently studying front-end technologies. 
   ### I'm a ADS student. Since I was a child I really liked computers and technologies and I always wanted to be a developer and now I'm have the chance to fulfill my dream.
   ### I started learning programing  in 2021, and since them I've been learn about many tecnologies and today my soft skills are front end technologies
   ### I'm always in search of knowledge to improve my skills.
