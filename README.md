@@ -39,6 +39,7 @@
   
   ### ⚡ &nbsp;Database
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title = "PostgreeSQL"/></code>
 
 <div align="center">
   <a href="https://github.com/carlloshen">
