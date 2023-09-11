@@ -2,10 +2,15 @@
   
   
 
-  ### Hello, my name is <strong>Carlos Henrique</strong> I'm 25 years old, I'm currently studying front-end technologies. 
-  ### I'm a ADS student. Since I was a child I really liked computers and technologies and I always wanted to be a developer and now I'm have the chance to fulfill my dream.
-  ### I started learning programing  in 2021, and since them I've been learn about many tecnologies and today my soft skills are front end technologies
-  ### I'm always in search of knowledge to improve my skills.
+  ### Hello, I'm Carlos Henrique, a 25-year-old developer with a strong focus on full-stack technologies.
+
+#### About Me
+Since my early years, I've had a deep fascination with computers and technology, and it's been my lifelong dream to become a developer. Now, I'm fortunate enough to be living that dream.
+
+My journey into programming began in 2021, and since then, I've been on a continuous quest for knowledge, honing my skills along the way. Today, I specialize in full-stack development, constantly seeking opportunities to further enhance my abilities.
+
+Feel free to explore my projects and contributions. If you'd like to collaborate or have any questions, please don't hesitate to get in touch.
+
   
  
   
