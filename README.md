@@ -2,7 +2,7 @@
   
   
 
-  ### Hello, I'm Carlos Henrique, a 25-year-old developer with a strong focus on full-stack technologies.
+  ### Hello, I'm Carlos Henrique, a 26 year old developer with a strong focus on full-stack technologies.
 
 #### About Me
 Since my early years, I've had a deep fascination with computers and technology, and it's been my lifelong dream to become a developer. Now, I'm fortunate enough to be living that dream.
