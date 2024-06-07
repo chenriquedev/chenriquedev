@@ -48,8 +48,8 @@ Feel free to explore my projects and contributions. If you'd like to collaborate
 
 <div align="center">
   <a href="https://github.com/carlloshen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlloshen&theme=blue-green"/>
-  <img widht="130rem"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlloshen&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chenriquedev&theme=blue-green"/>
+  <img widht="130rem"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenriquedev&theme=blue-green"/>
 </div>
   
   
