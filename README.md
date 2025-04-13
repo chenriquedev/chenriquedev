@@ -48,7 +48,7 @@ Feel free to explore my projects and contributions. If you'd like to collaborate
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title = "PostgreeSQL"/></code>
 
 <div align="center">
-  <a href="https://github.com/carlloshen">
+  <a href="https://github.com/chenriquedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chenriquedev&theme=blue-green"/>
   <img widht="130rem"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenriquedev&theme=blue-green"/>
 </div>
